@@ -1,2 +1,2 @@
-# PicoCTF-writeups
-My solutions, notes, and learnings from PicoCTF challenges.”
+# CTF-writeups
+My solutions, notes, and learnings from CTF challenges.”
